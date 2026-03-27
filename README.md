@@ -12,7 +12,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Jgraves10/Splunk-Log-Analysis-Lab/blob/main/README.md">Splunk Log Analysis Lab</a>|
 
 ## Tools
 
