@@ -29,4 +29,4 @@
 
 
 ## Projects
-- Splunk Log Analysis Lab
+- <a href="https://github.com/Jgraves10/Splunk-Log-Analysis-Lab/blob/main/README.md">Splunk Log Analysis Lab</a>
