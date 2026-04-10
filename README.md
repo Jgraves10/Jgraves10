@@ -30,3 +30,4 @@
 
 ## Projects
 - <a href="https://github.com/Jgraves10/Splunk-Log-Analysis-Lab/blob/main/README.md">Splunk Log Analysis Lab</a>
+- <a href ="https://github.com/Jgraves10/Phishing-Email-Analysis/blob/main/README.md">Phishing Email Analysis</a>
